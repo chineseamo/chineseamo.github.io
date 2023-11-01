@@ -10,9 +10,6 @@ tags: [books, test]
 
 ## Talks Sheet
 
-[This is a link to a different site](https://deanattali.com/)
-Here's a table:
-
 | Date | Topic | Speaker |
 | :------ |:--- | :--- |
 | 2023/10/29 | Prepare for CaF Blue MOT: RF-DC coupling, ground noise reduction | Jiaqi You |
