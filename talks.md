@@ -24,7 +24,7 @@ Here's a table:
 | 2023/07/16 | Axion detection using AMO platforms | Grace Li |
 | 2023/07/02 | [Self-referencing frequency comb]((https://chineseamo.github.io/assets/slides/070223mingda.pptx)) | Mingda Li |
 | 2023/06/18 | Quantum Simulation with Ultracold Bosons in Optical Lattice | Yanfei Li |
-| 2023/06/04 | [Quantum error correction code](https://chineseamo.github.io/assets/slides/060423mingda.pptx) | Yi Tan |
+| 2023/06/04 | [Quantum error correction code](https://chineseamo.github.io/assets/slides/060423yi.pptx) | Yi Tan |
 | 2023/05/21 | [Quantum Sensing with NV Center and Ultracold Atoms](https://chineseamo.github.io/assets/slides/060423zhiyao.pptx) | Zhiyao Hu |
 | 2023/05/07 | [Alkaline-Earth Rydberg](https://chineseamo.github.io/assets/slides/050723dewei.pptx) |Dewei Gong |
 | 2023/04/16 | [Ultracold NaLi](https://chineseamo.github.io/assets/slides/060423hongyin.pdf) |Hongyin Liu |
