@@ -31,4 +31,4 @@ Here's a table:
 | 2023/04/02 | Exploring the critical physics with a reconfigurable Rydberg atom array in optical tweezers | Yu Wang |
 | 2023/03/19 | Quantum Simulation with Er(Li) | Ruoyi Yin |
 | 2023/03/05 | NV center stuff | Che Liu |
-| 2023/02/19 | Seeking for eEDM inside SrOH molecule | Mingda Li |
+| 2023/02/19 | [Seeking for eEDM inside SrOH molecule](https://chineseamo.github.io/assets/slides/(021923 Mingda Li) Seeking for eEDM inside the SrOH molecule.pptx) | Mingda Li |
