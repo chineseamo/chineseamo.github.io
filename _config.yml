@@ -20,7 +20,7 @@ author: Boston Area
 ###############################################
 
 navbar-links:
-  test: "test"
+  Talks: "talks"
   Resources:
     - Google: "https://google.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
