@@ -24,11 +24,11 @@ Here's a table:
 | 2023/07/16 | Axion detection using AMO platforms | Grace Li |
 | 2023/07/02 | Self-referencing frequency comb | Mingda Li |
 | 2023/06/18 | Quantum Simulation with Ultracold Bosons in Optical Lattice | Yanfei Li |
-| 2023/06/04 | Quantum error correction code | Yi Tan |
-| 2023/05/21 | Quantum Sensing with NV Center and Ultracold Atoms | Zhiyao Hu |
-| 2023/05/07 | Alkaline-Earth Rydberg |Dewei Gong |
-| 2023/04/16 | NaLi |Hongyin Liu |
+| 2023/06/04 | [Quantum error correction code]((https://chineseamo.github.io/assets/slides/060423mingda.pptx)) | Yi Tan |
+| 2023/05/21 | [Quantum Sensing with NV Center and Ultracold Atoms]((https://chineseamo.github.io/assets/slides/060423zhiyao.pptx)) | Zhiyao Hu |
+| 2023/05/07 | [Alkaline-Earth Rydberg]((https://chineseamo.github.io/assets/slides/050723dewei.pptx)) |Dewei Gong |
+| 2023/04/16 | [Ultracold NaLi](https://chineseamo.github.io/assets/slides/060423hongyin.pdf) |Hongyin Liu |
 | 2023/04/02 | Exploring the critical physics with a reconfigurable Rydberg atom array in optical tweezers | Yu Wang |
 | 2023/03/19 | Quantum Simulation with Er(Li) | Ruoyi Yin |
-| 2023/03/05 | NV center stuff | Che Liu |
-| 2023/02/19 | [Seeking for eEDM inside SrOH molecule](https://chineseamo.github.io/assets/slides/(021923 Mingda Li) Seeking for eEDM inside the SrOH molecule.pptx) | Mingda Li |
+| 2023/03/05 | [NV center stuff](https://chineseamo.github.io/assets/slides/030523che.pptx) | Che Liu |
+| 2023/02/19 | [Seeking for eEDM inside SrOH molecule](https://chineseamo.github.io/assets/slides/021923mingda.pptx) | Mingda Li |
